@@ -12,7 +12,7 @@
 
 ## how to install
 ```
-git clone https://github.com/tiktakarkana929-tech/my-config-for-arch-hyprland.git
+git clone https://github.com/frayFMA/my-config-for-arch-hyprland.git
 cd my-config-for-arch-hyprland
 ./install.sh
 ```
